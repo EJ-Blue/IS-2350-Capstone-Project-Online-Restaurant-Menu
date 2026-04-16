@@ -2,7 +2,7 @@
 ----------------------------------------------------
 # Contributors
 - Hannah Dees
-- Kyra Wolf
+- Kyra Wolfe
 - Ekene Onyekachi
 ----------------------------------------------------
 # Project-Overview:
