@@ -73,6 +73,32 @@
             <a href="MenuPage.aspx" class="nav-link">Menu</a>
             <a href="ReservationsPage.aspx" class="nav-link">Reservations</a>
             </div>
+
+            <h1>Entrees</h1>
+            <h2>Special Items</h2>
+            <ul>
+                <li>The Gigabyte<span class="price"> $16.99</span>
+
+                <p class="caption">A 1 pound beast of a burger with all the fixins in the kitchen. Pair this bad boy with a pound of our signature Cache Fries and a large drink to boot and you have the makings of dinner you can never top</p></li>
+
+                <li>The Pyhton<span class="price"> $13.99</span>
+
+                <p class="caption">This foot long sausage comes smothered with our house sauce and homemade sauerkraut. No snake can be fully complete with scales either so freshly made kitchen chips come served up nice and hot alongside this lengthy meal. House sauce or BBQ can be added as dipping sauce.</p></li>
+
+                <li>The HTMLter<span class="price"> $15.99</span>
+
+                <p class="caption">This patty melt contains half a pound of fresh beef and the finest Swiss and Provolone Cheese from the local community. Smothered with the Head Chef’s famous grilled onion pepper combo, this monster of a burger packs the perfect combo of comfort and savor that Byte Burger is known for. Pair this web page sized meal with either fries or chips and your choice of sauce. </p></li>
+
+            </ul>
+
+        <h1>Special Drinks</h1>
+        <ul>
+            <li>Megabyte Milkshake<span class="price">$6.99</span>
+            <p class="caption">A jumbo size milkshake with a choice off added flavor, such as Chocolate, Vanilla,  </p></li>
+            <li>C# Cola<span class="price">$4.99</span>
+            <p class="caption">Two‑tone iced cold brew blend with choice of added flavor: vanilla or caramel</p></li>
+        </ul>
+        <p style="text-align:center; margin-top:40px; color:#888;">Byte Burgers • Est. 2026 • Fort Wayne, IN</p>
         </div>
     </form>
 </body>

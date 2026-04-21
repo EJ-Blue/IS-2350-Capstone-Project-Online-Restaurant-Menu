@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ekene\\source\\repos\\IS-2350-Capstone-Project-Online-Restaurant-Menu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1EEC17-72D1-4237-94DD-A685949B186D}|CapstoneProj2350\\CapstoneProj2350.csproj|c:\\users\\ekene\\source\\repos\\is-2350-capstone-project-online-restaurant-menu\\capstoneproj2350\\aboutpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2F1EEC17-72D1-4237-94DD-A685949B186D}|CapstoneProj2350\\CapstoneProj2350.csproj|solutionrelative:capstoneproj2350\\aboutpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1EEC17-72D1-4237-94DD-A685949B186D}|CapstoneProj2350\\CapstoneProj2350.csproj|c:\\users\\ekene\\source\\repos\\is-2350-capstone-project-online-restaurant-menu\\capstoneproj2350\\specialspage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2F1EEC17-72D1-4237-94DD-A685949B186D}|CapstoneProj2350\\CapstoneProj2350.csproj|solutionrelative:capstoneproj2350\\specialspage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1EEC17-72D1-4237-94DD-A685949B186D}|CapstoneProj2350\\CapstoneProj2350.csproj|c:\\users\\ekene\\source\\repos\\is-2350-capstone-project-online-restaurant-menu\\capstoneproj2350\\welcomepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2F1EEC17-72D1-4237-94DD-A685949B186D}|CapstoneProj2350\\CapstoneProj2350.csproj|solutionrelative:capstoneproj2350\\welcomepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AboutPage.aspx",
+              "DocumentMoniker": "C:\\Users\\ekene\\source\\repos\\IS-2350-Capstone-Project-Online-Restaurant-Menu\\CapstoneProj2350\\AboutPage.aspx",
+              "RelativeDocumentMoniker": "CapstoneProj2350\\AboutPage.aspx",
+              "ToolTip": "C:\\Users\\ekene\\source\\repos\\IS-2350-Capstone-Project-Online-Restaurant-Menu\\CapstoneProj2350\\AboutPage.aspx",
+              "RelativeToolTip": "CapstoneProj2350\\AboutPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-04-21T15:00:09.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpecialsPage.aspx",
+              "DocumentMoniker": "C:\\Users\\ekene\\source\\repos\\IS-2350-Capstone-Project-Online-Restaurant-Menu\\CapstoneProj2350\\SpecialsPage.aspx",
+              "RelativeDocumentMoniker": "CapstoneProj2350\\SpecialsPage.aspx",
+              "ToolTip": "C:\\Users\\ekene\\source\\repos\\IS-2350-Capstone-Project-Online-Restaurant-Menu\\CapstoneProj2350\\SpecialsPage.aspx",
+              "RelativeToolTip": "CapstoneProj2350\\SpecialsPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-04-21T14:07:19.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WelcomePage.aspx",
+              "DocumentMoniker": "C:\\Users\\ekene\\source\\repos\\IS-2350-Capstone-Project-Online-Restaurant-Menu\\CapstoneProj2350\\WelcomePage.aspx",
+              "RelativeDocumentMoniker": "CapstoneProj2350\\WelcomePage.aspx",
+              "ToolTip": "C:\\Users\\ekene\\source\\repos\\IS-2350-Capstone-Project-Online-Restaurant-Menu\\CapstoneProj2350\\WelcomePage.aspx",
+              "RelativeToolTip": "CapstoneProj2350\\WelcomePage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-04-17T16:02:31.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

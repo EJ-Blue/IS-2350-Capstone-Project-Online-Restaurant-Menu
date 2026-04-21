@@ -73,6 +73,13 @@
             <a href="ReservationsPage.aspx" class="nav-link">Reservations</a>
             </div>
         </div>
+
+        <p>Bob Coder (our head chef) spent his early childhood having a love for all things, technology. He always answered the “what do you want to be when you grow up” question with ambitious dreams like CEO of a gaming company or becoming the head programmer and invaluable asset to a major corporation. In High School, Bob took every technical course under the sun: from robotics to any programming language, he could get his hands on. His fascination for technology only grew; however, his skill set did not. Bob was unable to code the simplest of programs, and his robots never even moved an inch. Bob was devastated to see his childhood dreams slowly die in his own hands. 
+One day, about halfway through a semester of failed coding languages, Bob’s teacher pulled him aside and told him that he would never amount to anything with his programming prospects, and he would be better off flipping burgers at a restaurant. This comment, meant to be an insult, instead inspired our dear Bob to change the trajectory of his life. He dropped every tech related course in his schedule and added cooking classes instead. Bob learned he was a phenomenal cook and an even better grillmaster. 
+Since that moment, Bob knew his life wasn’t meant to be some snazzy office job techie, but rather the Burger Man of his own shop. He decided to combine his love for tech and burgers to create The Byte Burger; the most tech-poppin', burger bytin’ joint this side of the county line. 
+</p>
+
+        <p style="text-align:center; margin-top:40px; color:#888;">Byte Burgers • Est. 2026 • Fort Wayne, IN</p>
     </form>
 </body>
 </html>
