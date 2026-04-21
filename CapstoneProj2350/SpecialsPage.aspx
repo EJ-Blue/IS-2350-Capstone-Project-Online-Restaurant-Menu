@@ -13,6 +13,58 @@
         margin: 0;
         padding: 0;
     }
+    .menu-container {
+    width: 70%;
+    margin: 40px auto;
+    background: #f8f6f1;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+    }
+    .menu-container:hover {
+    box-shadow: 0 12px 50px rgba(0,0,0,0.12);
+    }
+    h1 {
+    font-size: 32px;
+    margin-top: 40px;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 5px;
+    }
+
+    h2 {
+    font-size: 24px;
+    margin-top: 25px;
+    color: #444;
+    }
+
+    ul {
+        list-style: none;
+        padding-left: 0;
+    }
+
+    li {
+        margin: 10px 0;
+        font-size: 18px;
+        font-weight: 600;
+    }
+
+    .caption {
+        font-size: 14px;
+        color: #666;
+        margin-top: -6px;
+        margin-bottom: 12px;
+        padding-left: 5px;
+    }
+    .price {
+            float: right;
+            font-weight: 600;
+            color: #333;
+    }
+    li:hover {
+    color: #0078ff;
+    transition: 0.2s ease;
+    transform: translateX(4px);
+    }
     .nav-container {
     display: flex;
     justify-content: center;
@@ -73,7 +125,7 @@
             <a href="MenuPage.aspx" class="nav-link">Menu</a>
             <a href="ReservationsPage.aspx" class="nav-link">Reservations</a>
             </div>
-
+            <div class="menu-container">
             <h1>Entrees</h1>
             <h2>Special Items</h2>
             <ul>
@@ -89,17 +141,25 @@
 
                 <p class="caption">This patty melt contains half a pound of fresh beef and the finest Swiss and Provolone Cheese from the local community. Smothered with the Head Chef’s famous grilled onion pepper combo, this monster of a burger packs the perfect combo of comfort and savor that Byte Burger is known for. Pair this web page sized meal with either fries or chips and your choice of sauce. </p></li>
 
+                <li>While Loop Wings<span class="price"> $11.99</span>
+
+                <p class="caption">Whether boneless or bone-in, these wings are practically endless as long as you want them. Can be smothered in Buffalo, BBQ, Garlic Parmesan, etc. Inclued with Cache Fries</p></li>
+
+                <li>Nashville Firewall Sandwich<span class="price"> $14.99</span>
+
+<p               <p class="caption">Crispy, buttermilk-marinated fried chicken coated in a spicy paste or oil, heavily seasoned with cayenne pepper and covered with colesaw for cool refreshment. Biting into it makes you feel like entered a firewall. </p></li>
             </ul>
 
         <h1>Special Drinks</h1>
         <ul>
-            <li>Megabyte Milkshake<span class="price">$6.99</span>
-            <p class="caption">A jumbo size milkshake with a choice off added flavor, such as Chocolate, Vanilla,  </p></li>
+            <li>Megabyte Milkshake<span class="price"> $6.99</span>
+            <p class="caption">A jumbo size milkshake with a choice of added flavor, such as Chocolate, Vanilla, Strawberry, Peanut Butter, etc., sprinkled with wide variety of toppings and drizzled with chocolate or caramel</p></li>
             <li>C# Cola<span class="price">$4.99</span>
-            <p class="caption">Two‑tone iced cold brew blend with choice of added flavor: vanilla or caramel</p></li>
+            <p class="caption">This soda give fizzing sting</p></li>
         </ul>
         <p style="text-align:center; margin-top:40px; color:#888;">Byte Burgers • Est. 2026 • Fort Wayne, IN</p>
         </div>
+            </div>
     </form>
 </body>
 </html>

@@ -84,7 +84,8 @@
                 <a href="SpecialsPage.aspx" class="nav-link">Specials</a>
                 <a href="ReservationsPage.aspx" class="nav-link">Reservations</a>
             </div>
- 
+
+            <p style="text-align:center; margin-top:40px; color:#888;">Byte Burgers • Est. 2026 • Fort Wayne, IN</p>
         </div>
     </form>
 </body>

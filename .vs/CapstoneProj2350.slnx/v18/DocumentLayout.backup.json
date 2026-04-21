@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ekene\\source\\repos\\IS-2350-Capstone-Project-Online-Restaurant-Menu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F1EEC17-72D1-4237-94DD-A685949B186D}|CapstoneProj2350\\CapstoneProj2350.csproj|c:\\users\\ekene\\source\\repos\\is-2350-capstone-project-online-restaurant-menu\\capstoneproj2350\\aboutpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{2F1EEC17-72D1-4237-94DD-A685949B186D}|CapstoneProj2350\\CapstoneProj2350.csproj|solutionrelative:capstoneproj2350\\aboutpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2F1EEC17-72D1-4237-94DD-A685949B186D}|CapstoneProj2350\\CapstoneProj2350.csproj|c:\\users\\ekene\\source\\repos\\is-2350-capstone-project-online-restaurant-menu\\capstoneproj2350\\specialspage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{2F1EEC17-72D1-4237-94DD-A685949B186D}|CapstoneProj2350\\CapstoneProj2350.csproj|solutionrelative:capstoneproj2350\\specialspage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1EEC17-72D1-4237-94DD-A685949B186D}|CapstoneProj2350\\CapstoneProj2350.csproj|c:\\users\\ekene\\source\\repos\\is-2350-capstone-project-online-restaurant-menu\\capstoneproj2350\\aboutpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2F1EEC17-72D1-4237-94DD-A685949B186D}|CapstoneProj2350\\CapstoneProj2350.csproj|solutionrelative:capstoneproj2350\\aboutpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F1EEC17-72D1-4237-94DD-A685949B186D}|CapstoneProj2350\\CapstoneProj2350.csproj|c:\\users\\ekene\\source\\repos\\is-2350-capstone-project-online-restaurant-menu\\capstoneproj2350\\welcomepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -22,11 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AboutPage.aspx",
               "DocumentMoniker": "C:\\Users\\ekene\\source\\repos\\IS-2350-Capstone-Project-Online-Restaurant-Menu\\CapstoneProj2350\\AboutPage.aspx",
               "RelativeDocumentMoniker": "CapstoneProj2350\\AboutPage.aspx",
@@ -39,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SpecialsPage.aspx",
               "DocumentMoniker": "C:\\Users\\ekene\\source\\repos\\IS-2350-Capstone-Project-Online-Restaurant-Menu\\CapstoneProj2350\\SpecialsPage.aspx",
               "RelativeDocumentMoniker": "CapstoneProj2350\\SpecialsPage.aspx",

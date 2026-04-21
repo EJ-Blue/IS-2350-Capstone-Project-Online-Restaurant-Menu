@@ -73,6 +73,9 @@
             <a href="MenuPage.aspx" class="nav-link">Menu</a>
             <a href="SpecialsPage.aspx" class="nav-link">Specials</a>
             </div>
+
+          
+            <p style="text-align:center; margin-top:40px; color:#888;">Byte Burgers • Est. 2026 • Fort Wayne, IN</p>
         </div>
     </form>
 </body>
