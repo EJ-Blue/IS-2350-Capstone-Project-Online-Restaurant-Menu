@@ -28,7 +28,7 @@
         .menu-title {
             display: block;
             text-align: center;
-            font-size: 2.2rem;
+            font-size: 50px;;
             font-weight: bold;
             margin-top: 20px;
             margin-bottom: 12px;
@@ -296,14 +296,26 @@
 
         <h1>Beverages</h1>
         <ul>
-            <li>Frostbyte<span class="price">$2.99</span>
-            <p class="caption">A chilling blue raspberry slush</p></li>
-            <li>Binary Brew<span class="price">$4.99</span>
-            <p class="caption">Two‑tone iced cold brew blend with choice of added flavor: vanilla or caramel</p></li>
-            <li>RAM Punch<span class="price">$2.99</span>
-            <p class="caption">A fruity, energizing punch</p></li>
-            <li>Data Drip Coffee<span class="price">$3.99</span>
-            <p class="caption">Freshly brewed drip coffee with a bold flavor</p></li>
+            <li>
+            <a href="#frostbyte">Frostbyte </a><span class="price">$2.99</span>
+            <p class="caption">A chilling blue raspberry slush</p>
+            </li>
+
+            <li>
+            <a href="#binarybrew">Binary Brew</a><span class="price">$4.99</span>
+            <p class="caption">Two‑tone iced cold brew blend with choice of added flavor: vanilla or caramel</p>
+            </li>
+
+            <li>
+             <a href="#rampunch">RAM Punch</a><span class="price">$2.99</span>
+            <p class="caption">A fruity, energizing punch</p>
+            </li>
+
+            <li>
+              <a href="#datadrip">Data Drip Coffee</a><span class="price">$3.99</span>
+            <p class="caption">Freshly brewed drip coffee with a bold flavor</p>
+            </li>
+
         </ul>
         <p style="text-align:center; margin-top:40px; color:#888;">Byte Burgers • Est. 2026 • Fort Wayne, IN</p>
         </div>

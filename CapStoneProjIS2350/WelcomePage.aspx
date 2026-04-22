@@ -28,7 +28,7 @@
     .nav-link {
     text-decoration: none;
     color: #222;
-    font-size: 1.1rem;
+    font-size:25px;
     padding: 8px 12px;
     position: relative;
     transition: color 0.2s ease, transform 0.2s ease;
@@ -53,7 +53,7 @@
     .title-main {
     display: block;
     text-align: center;
-    font-size: 2.2rem;
+    font-size: 50px;
     font-weight: bold;
     margin-bottom: 12px;
     margin-top: 20px;
@@ -64,7 +64,7 @@
     .title-sub {
         display: block;
         text-align: center;
-        font-size: 1.4rem;
+        font-size: 30px;
         margin-bottom: 25px;
         color: #555;
         font-style: italic;

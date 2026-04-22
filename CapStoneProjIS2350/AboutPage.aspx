@@ -29,7 +29,7 @@
     .nav-link {
     text-decoration: none;
     color: #222;
-    font-size: 1.1rem;
+    font-size: 25px;
     padding: 8px 12px;
     position: relative;
     transition: color 0.2s ease, transform 0.2s ease;
@@ -54,7 +54,7 @@
     .title-main {
     display: block;
     text-align: center;
-    font-size: 2.2rem;
+    font-size: 40px;
     font-weight: bold;
     margin-top: 20px;
     color: #222;
@@ -87,7 +87,8 @@
             He always answered the “what do you want to be when you grow up” question with ambitious dreams like CEO of a gaming company or becoming the head programmer and invaluable asset to a major corporation. 
             In High School, Bob took every technical course under the sun: from robotics to any programming language, he could get his hands on. His fascination for technology only grew; however, his skill set did not. Bob was unable to code the simplest of programs, and his robots never even moved an inch. 
             Bob was devastated to see his childhood dreams slowly die in his own hands. 
-        </p> </ br>
+        </p>
+        </ br>
           <p class="p"> 
             One day, about halfway through a semester of failed coding languages, Bob’s teacher pulled him aside and told him that he would never amount to anything with his programming prospects, and he would be better off flipping burgers at a restaurant. 
             This comment, meant to be an insult, instead inspired our dear Bob to change the trajectory of his life. He dropped every tech related course in his schedule and added cooking classes instead. Bob learned he was a phenomenal cook and an even better grillmaster. 

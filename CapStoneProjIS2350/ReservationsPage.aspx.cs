@@ -13,5 +13,13 @@ namespace CapStoneProjIS2350
         {
 
         }
+
+        protected void submit_Click(object sender, EventArgs e)
+        {
+            Name.Text = " ";
+            guests.Text = " ";
+            Phone.Text = " ";
+            txtEmail.Text = " ";
+        }
     }
 }
