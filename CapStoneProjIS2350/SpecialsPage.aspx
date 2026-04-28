@@ -112,7 +112,39 @@
     color: #222;
     letter-spacing: 1px;
     margin-bottom: 12px;
-}
+    }
+     .popup {
+     position: fixed;
+     top: 0;
+     left: 0;
+     width: 100%;
+     height: 100%;
+     background: rgba(0,0,0,0.7);
+     display: none;
+     justify-content: center;
+     align-items: center;
+     z-index: 9999;
+     }
+
+     .popup:target {
+         display: flex;
+     }
+
+     .popup img {
+         max-width:auto;
+         max-height: auto;
+         border-radius: 10px;
+     }
+
+     .close-btn {
+         position: absolute;
+         top: 20px;
+         right: 30px;
+         font-size: 30px;
+         color: white;
+         text-decoration: none;
+         font-weight: bold;
+     }
 </style>
 </head>
 <body>
@@ -129,42 +161,91 @@
             <div class="menu-container">
             <h1>Specialty Entrees</h1>
             <ul>
-                <li>The Gigabyte Meal<span class="price"> $16.99</span>
+                <li>
+                    <a href="#gigabyte">The Gigabyte Meal</a><span class="price"> $16.99</span>
 
                 <p class="caption">A 1/2 lb burger with all the fixins in the kitchen. Paired with a 1/2 lb of our signature Cache Fries and a large drink of your choice.</p></li>
 
-                <li>The Python<span class="price"> $13.99</span>
+                <li>
+                    <a href="#python">The Python </a><span class="price"> $13.99</span>
 
                 <p class="caption">This foot long sausage sandwhich comes topped with our house sauce and homemade sauerkraut. No snake is complete with scales- freshly made kitchen potato chips come served alongside this lengthy meal. Additonal side of BBQ Sauce or House Sauce ($0.50) </p></li>
 
-                <li>The HTMLter<span class="price"> $15.99</span>
+                <li>
+                    <a href="#htmler">The HTMLter</a><span class="price"> $15.99</span>
 
                 <p class="caption">This patty melt contains half a pound of fresh beef and the finest Swiss and Provolone Cheese from the local community. Completed with the Head Chef’s famous grilled onion pepper combo, this burger packs the perfect combo of comfort and savor that Byte Burger is known for. Paired with either fries or chips and your choice of sauce. </p></li>
 
-                <li>While Loop Wings<span class="price"> $11.99</span>
+                <li>
+                    <a href="#wings">While Loop Wings</a><span class="price"> $11.99</span>
 
                 <p class="caption">An unlimted wing service served boneless or bone-in; Tossed in the sauce of your choice: Buffalo, BBQ, Garlic Parmesan. Served with Cache Fries</p></li>
 
-                <li>Nashville Firewall Sandwich<span class="price"> $14.99</span>
+                <li>
+                    <a href="#nashville">Nashville Firewall Sandwich</a><span class="price"> $14.99</span>
 
-<p               <p class="caption">Crispy, buttermilk-marinated fried chicken heavily seasoned with our Firewall seasoning and served with colesaw on the side for cool refreshment</p></li>
+              <p class="caption">Crispy, buttermilk-marinated fried chicken heavily seasoned with our Firewall seasoning and served with colesaw on the side for cool refreshment</p></li>
             </ul>
 
         <h1>Limited Time Beverages</h1>
         <ul>
-            <li>Megabyte Milkshake<span class="price"> $6.99</span>
+            <li>
+                <a href="#megamilk">Megabyte Milkshake</a><span class="price"> $6.99</span>
             <p class="caption">A jumbo size milkshake with your choice of flavor: Chocolate, Vanilla, Strawberry, Peanut Butter, or Blueberry, sprinkled with choclate shavings and drizzled in you choice of chocolate or caramel</p></li>
 
-            <li>C# Cola<span class="price">$4.99</span>
+            <li>
+                <a href="#cola">C# Cola</a><span class="price">$4.99</span>
             <p class="caption">A crisp, sizzling cherry soda with popping boba pearls to quench your thrist</p></li>
 
-            <li>Java Mocha<span class="price">$4.99</span>
+            <li>
+                <a href="#mocha">Java Mocha</a><span class="price">$4.99</span>
             <p class="caption">Mocha flavored iced-latte topped with choclate shavings and whipped cream</p></li>
         </ul>
 
         <p style="text-align:center; margin-top:40px; color:#888;">Byte Burgers • Est. 2026 • Fort Wayne, IN</p>
         </div>
             </div>
-    </form>
+
+
+         <!-- this is to make the images work -->
+         <div id="gigabyte" class="popup">
+             <a href="#" class="close-btn">X</a>
+             <img src="gigabyte.png" alt="The Gigabyte Burger">
+         </div>
+
+         <div id="python" class="popup">
+             <a href="#" class="close-btn">X</a>
+             <img src="phythoonsandy.png" alt="The Python">
+         </div>
+
+         <div id="htmler" class="popup">
+             <a href="#" class="close-btn">X</a>
+             <img src="htmler.png" alt="The HTMLer">
+         </div>
+
+         <div id="wings" class="popup">
+             <a href="#" class="close-btn">X</a>
+             <img src="loopwings.png" alt="While Loop Wings">
+         </div>
+
+         <div id="nashvile" class="popup">
+         <a href="#" class="close-btn">X</a>
+          <img src="nashvillesandy.png" alt="Nashville Firewall Sandwhich">
+         </div>
+
+         <div id="megamilk" class="popup">
+             <a href="#" class="close-btn">X</a>
+             <img src="megamilk.png" alt="Megabyte Milkshake">
+         </div>
+
+         <div id="cola" class="popup">
+             <a href="#" class="close-btn">X</a>
+             <img src="cola.png" alt="C# Cola">
+         </div>
+        <div id="mocha" class="popup">
+        <a href="#" class="close-btn">X</a>
+        <img src="mocha.jpg" alt="Java Mocha">
+    </div>
+            </form>
 </body>
 </html>

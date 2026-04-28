@@ -60,14 +60,17 @@
     color: #222;
     letter-spacing: 1px;
     }
-    .p{
-        font-size: 16px;
-        color: #000000;
-        margin-top: 12px;
-        margin-bottom: 12px;
-        padding-left: 5px;
-        text-align:center;
-    }
+    .p {
+      font-family:Garamond;
+      font-size: 20px;
+      color: #000000;
+      margin-top: 12px;
+      margin-bottom: 12px;
+      padding: 30px 40px;
+      padding-right: 300px;
+      padding-left: 300px;
+      text-align: center;
+     }
 </style>
 </head>
 <body>

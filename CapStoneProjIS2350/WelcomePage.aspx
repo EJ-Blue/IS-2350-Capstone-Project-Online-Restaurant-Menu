@@ -69,8 +69,21 @@
         color: #555;
         font-style: italic;
     }
-
-
+    .heads {
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 25px;
+    color: #000000;
+    }
+     .p {
+       font-size: 16px;
+       color: #000000;
+       margin-top: 12px;
+       margin-bottom: 12px;
+       padding-left: 5px;
+       text-align: center;
+      }
     </style>
 </head>
 <body>
@@ -85,6 +98,21 @@
                 <a href="SpecialsPage.aspx" class="nav-link">Specials</a>
                 <a href="ReservationsPage.aspx" class="nav-link">Reservations</a>
             </div>
+
+            <asp:Label ID="hours" runat="server" class="heads" Text="Hours"></asp:Label> <br />
+                <p class="p">Monday-Friday: 11 AM-10PM</p><br />
+                <p class="p">Saturday & Sunday: 12 PM-11PM</p>
+
+            <asp:Label ID="addy" runat="server" class="heads" Text="Our Location"></asp:Label> <br />
+            <p class="p">1234 Smith St. Fort Wayne, IN 46803</p><br />
+
+            <asp:Label ID="pnum" runat="server" class="heads" Text="Contact Us"></asp:Label> <br />
+            <p class="p">Phone Number:123-456-7890</p> <br />
+
+            <asp:Label ID="contact" runat="server" class="heads" Text="Questions, Commments Concerns? Email Us!"></asp:Label> <br />
+           <p class="p"> <a href="mailto:byteburgers@gmail.com" >Restaurant's Email </a> </p> <br />
+            <p class="p"> <a href="mailto:bobcoder@gmail.com" >Head Chef's Email </a> </p>
+
 
             <p style="text-align:center; margin-top:40px; color:#888;">Byte Burgers • Est. 2026 • Fort Wayne, IN</p>
         </div>

@@ -59,7 +59,10 @@
             font-size: 18px;
             font-weight: 600;
         }
-
+        a:visited
+        {
+            color:#a033bb
+        }
         .caption {
             font-size: 14px;
             color: #666;
